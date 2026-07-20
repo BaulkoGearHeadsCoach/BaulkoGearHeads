@@ -7,6 +7,7 @@ Thumbs.db
 # editor / IDE folders
 .idea/
 .vscode/
+node_modules/
 
 # logs
 *.log
